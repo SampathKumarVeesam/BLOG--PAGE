@@ -25,4 +25,4 @@ Grid System: Implement the grid system to make the layout responsive.
 Cards: Use Bootstrap cards to display the blog posts.
 Form: Style the search bar using Bootstrap's form classes.
 
-Demo Link :
+Demo Link : https://sampathkumarveesam.github.io/BLOG--PAGE/
