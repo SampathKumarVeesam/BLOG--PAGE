@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    background-color: rgb(117, 96, 202);
+    border-radius: 10px;
+    margin-left: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header {
+    background-color: gray;
+    color: white;;
+    padding: 3px;
+    text-align: center;
+}
+.container1{
+    display: flex;
+}
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+}
+
+#main-content {
+    padding: 2em;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-body h5 {
+    color: #4CAF50;
+}
+
+.card-body p {
+    font-size: 16px;
+}
+
+.col-md-4 {
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #4CAF50;
+}
+
+ul li a:hover {
+    color: #3e8e41;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    clear: both;
+}
+.container3{
+    font-size: medium;
+    font-style: italic;
+    padding: 5px;
+    color: bisque;
+}
+
+.social-links {
+    margin-top: 10px;
+}
+
+.social-links a {
+    margin: 0 10px;
+    color: rgb(255, 255, 255);
+}
+.social-links a:hover{
+    color: rgb(21, 77, 219);
+}
+.col-md-6{
+    margin-top: 10px;
+}
+.col-md-6 h5:hover{
+    color: rgb(187, 205, 20);
+
+}
+#cu:hover{
+    color: #4CAF50;
+}
+#cu2:hover{
+    color: #c54444;
+}
